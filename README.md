@@ -1,4 +1,4 @@
-### Oiii! Eu sou a Beatriz de Almeida 👋
+### Oiii! Eu sou a Beatriz de Almeida 
 
 - 🌱 I’m currently learning Python, HTML, CSS e JavaScript
 - 😄 Pronouns: ela/dela
