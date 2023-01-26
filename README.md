@@ -1,12 +1,11 @@
 ### Oiii! Eu sou a Beatriz de Almeida 
 
 - 🌱 I’m currently learning Python, HTML, CSS e JavaScript
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/B-e-a-t-r-i-z">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=B-e-a-t-r-i-z&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-e-a-t-r-i-z&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=B-e-a-t-r-i-z&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-e-a-t-r-i-z&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
