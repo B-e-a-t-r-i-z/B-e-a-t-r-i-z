@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Beatriz de Almeida 
 
-- 🌱 I’m currently learning Python, HTML, CSS e JavaScript
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript e Java
 
 <div>
   <a href="https://github.com/B-e-a-t-r-i-z">
