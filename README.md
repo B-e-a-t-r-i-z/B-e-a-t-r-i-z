@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Beatriz de Almeida 
 
-- 🌱 I’m currently learning to program in C.
+- 🌱 I'm currently learning to program and IT support!!!
 
 <div>
   <a href="https://github.com/B-e-a-t-r-i-z">
