@@ -1,7 +1,5 @@
 ## Oiii! Eu sou a Beatriz de Almeida 
 
-- 🌱 I'm currently learning to program and IT support!!!
-
 <div>
   <a href="https://github.com/B-e-a-t-r-i-z">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=B-e-a-t-r-i-z&count_private=false&theme=jolly&include_all_commits=true"/>
